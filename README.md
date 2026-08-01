@@ -1,4 +1,5 @@
-# Prieiro Projeto
+# Primeiro Projeto
 primeiro projeto
 
-Respositorio inicial
+Repositório inicial]
+essa linha foi alterada no git
